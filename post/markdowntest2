@@ -1,7 +1,18 @@
----
-title: "Markdowntest2"
-date: 2021-05-23T16:28:12+05:30
----
++++
+author = "Hugo Authors"
+title = "Markdown test"
+date = "2021-05-21"
+description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
+tags = [
+    "markdown",
+]
+categories = [
+    "syntax",
+]
+series = ["Themes Guide"]
+aliases = ["migrate-from-jekyl"]
++++
+
 # Markdown: Syntax
 
 *   [Overview](#overview)
